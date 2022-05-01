@@ -6,6 +6,6 @@
   I am a young developer hoping to make useful tools
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kamushy" width="510"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kamushy" width="505"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamushy" width="500"></a>
 </p>	
