@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hello, I'm kamushy
+	👋Hello, I'm kamushy
 </h1>
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="100"></a></p>
 <p align='center'>
@@ -9,4 +9,4 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kamushy" width="370"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamushy" width="350"></a>
 </p>	
-<p>Contact me at kamushy#0992 on discord</>
+<p align="center">📫Contact me at kamushy#0992 on discord</>
