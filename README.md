@@ -18,7 +18,7 @@
     </a>
 </p>
 
-## **Projects im proud of**
+## **Projects I'm proud of**
 <p align='center'>
     <a href='https://github.com/Kamushy/payslips-data-grab-and-graph'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=Kamushy&repo=payslips-data-grab-and-graph&alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
