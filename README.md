@@ -16,7 +16,11 @@
     <a href='mailto:kalanscriv19@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
+    <a href='https://medium.com/@kalanscriv19' target='_blank'>
+        <img src='https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white'/>
+    </a>
 </p>
+
 
 ## **Projects I'm proud of**
 <p align='center'>
@@ -38,6 +42,11 @@
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=kamushy&theme=gotham&hide_border=true'>
 </p>
+
+## **My Articles on medium**
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0" alt="Recent Article 0"> 
+</a>
+
 
 <p align = "center">
 If you have a question about one of my projects contact me at kamushy#0992 on discord, or click the gmail button above
