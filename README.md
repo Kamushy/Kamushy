@@ -43,6 +43,10 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=kamushy&theme=gotham&hide_border=true'>
 </p>
 
+## My activies
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=kamushy&custom_title=Kamushy's%20activity%20graph&theme=gotham&hide_border=true)](https://github.com/Kamushy/github-readme-activity-graph)
+
+
 ## **My Articles on medium**
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0" alt="Recent Article 0"> 
 </a>
