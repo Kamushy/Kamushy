@@ -2,7 +2,7 @@
 	👋Hello, I'm kamushy
 </h1>
 <p align='center'>
-  I'm a young developer making projects for fun, and sometimes those turn into slightly useful stuff.
+  I'm a 15 year old developer who sometimes makes useful things, I am learning Python, Javascript and am trying to get in front end web development.
 </p>
 
 <p align='center'>
@@ -45,11 +45,6 @@
 
 ## My activies
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=kamushy&custom_title=Kamushy's%20activity%20graph&theme=gotham&hide_border=true)](https://github.com/Kamushy/github-readme-activity-graph)
-
-
-## **My Articles on medium**
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kalanscriv19/0" alt="Recent Article 0"> 
-</a>
 
 
 <p align = "center">
