@@ -1,5 +1,5 @@
 <h1 align="center">
-	👋Hello, I'm kamushy
+	👋Hello, I'm Kamushy
 </h1>
 <p align='center'>
   I'm a 15 year old developer who sometimes makes useful things, I am learning Python, Javascript and am trying to get in front end web development.
